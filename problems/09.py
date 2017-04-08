@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
 '''
-again, look at the traceback and fix!
+again, look closely at the traceback and fix!
 '''
 
 
