@@ -2,6 +2,10 @@
 
 '''
 again, please fix!
+
+first we want to print out the last element of lst.
+
+then we want to print the last 5 elements.
 '''
 
 lst = list(range(10))

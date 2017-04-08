@@ -4,7 +4,7 @@
 trying to create a datetime. see the documentation:
 https://docs.python.org/3/library/datetime.html
 
-why does this not work?!
+why does this not work?! please fix.
 '''
 
 import datetime
